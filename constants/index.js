@@ -1,88 +1,82 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: "world-1",
+    imgUrl: "/planet-01.png",
+    title: "Climate Change",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: "world-2",
+    imgUrl: "/planet-02.png",
+    title: "Natural Disaster",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: "world-3",
+    imgUrl: "/planet-03.png",
+    title: "Hunger Eradication",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: "world-4",
+    imgUrl: "/planet-04.png",
+    title: "Blockchain",
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: "world-5",
+    imgUrl: "/planet-05.png",
+    title: "Open innovation",
   },
 ];
 
-export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
-];
+export const startingFeatures = ["Event 1", "Event 2", "Event 3"];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
-    subtitle:
-        'we have the latest update with new world for you to try never mind',
+    imgUrl: "/vrpano.svg",
+    title: "2.5 K ",
+    subtitle: "Lines of code written",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
-    subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+    imgUrl: "/headset.svg",
+    title: "1.9 K",
+    subtitle: "Participants",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/planet-06.png",
+    title: "What is Electrothon?",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Electrothon is a student-run hackathon, under the aegis of the National Institute of Technology Hamirpur, India. An exceptional place for young and dedicated minds.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/planet-07.png",
+    title: "Who can apply?",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "You must be 18 years or above and a student from any designated University/College.",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/planet-08.png",
+    title: "Can a college have multiple teams?",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Yes, there is no restriction here. We also welcome inter-college teams.",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];
